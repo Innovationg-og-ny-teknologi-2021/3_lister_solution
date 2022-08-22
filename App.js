@@ -20,6 +20,7 @@ const styles = StyleSheet.create({
   container: {
     flex: 1,
     backgroundColor: '#fff',
+    // Disse settings har det med at drille android telefoner
     //alignItems: 'center',
     //justifyContent: 'center',
   },
